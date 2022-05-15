@@ -1,0 +1,13 @@
+﻿{
+    "name": "随便改",
+    "description": "随便改",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID, use uuid generator",
+            "value": "87b5c352-90d7-4ee1-9d1e-b03231c9fc53"
+        }
+    },
+    "repository": "https://github.com/onerns/0515-xray",
+    "stack": "container"
+}
